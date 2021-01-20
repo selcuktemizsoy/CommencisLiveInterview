@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="commencis interview api" verbose="1">
+    <test name="api tests">
+        <packages>
+            <package name="com.commencis.tests"></package>
+        </packages>
+    </test>
+    
+    
+</suite>
