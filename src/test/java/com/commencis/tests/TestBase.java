@@ -40,7 +40,7 @@ public class TestBase {
 
         //initialize the html reporter with the report path
         htmlReporter = new ExtentHtmlReporter(path);
-        int a;
+        System.out.println("osman");
 
         //attach the html report to report object
         report.attachReporter(htmlReporter);
